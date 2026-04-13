@@ -66,7 +66,9 @@ Employee attrition is a critical challenge for organizations. This project aims 
 project-files/
 
 ├── employee-attrition-dataset.csv
+
 ├── employee-attrition-dashboard.pbix
+
 └── dashboard.png
 
 ---
